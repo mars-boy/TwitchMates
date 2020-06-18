@@ -1,0 +1,10 @@
+dependencies:
+ - python==3.8.2
+ - pip:
+   - Flask
+   - asyncio
+   - aiohttp
+   - sanic
+   - sanic-cors
+   - Psycopg2 
+   - asyncpg
